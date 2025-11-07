@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // 💡 PASSO ÚNICO: Cole sua chave da API do Google Gemini aqui
-    const GEMINI_API_KEY = "AIzaSyA-UhSCI98CqvaeYn9eSQAdkLTjfuUrUHQ";
+    const GEMINI_API_KEY = "";
 
     const form = document.getElementById('checkForm');
     const loading = document.getElementById('loading');
